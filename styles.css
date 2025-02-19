@@ -1,0 +1,38 @@
+*{
+    /* border: 1px solid black; */
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin-bottom: 50px;
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header, main{
+    width: 35%;
+}
+
+h1{
+    padding: 20px 0px 20px 0px;
+    font-weight: 400;
+    border-bottom: 1px solid black;
+}
+h2{
+    font-size: 1.2em;
+    color: rgb(28, 156, 28);
+    padding: 20px 0px 15px 0px;
+}
+
+h3, strong{
+    font-size: 1em;
+    color: rgb(14, 135, 190);
+}
+ul{
+    padding: 10px 0px 0px 20px;
+}
