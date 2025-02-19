@@ -1,6 +1,6 @@
 <H1>📄 MI CV SIMPLE CON HTML y CSS</H1>
 Este es un proyecto simple de un **Currículum Vitae (CV)** creado utilizando **HTML y CSS**. Es una página web estática que presenta mi información profesional de una manera clara y elegante.
-https://github.com/TonyForeach/cvtony
+https://roadmap.sh/projects/single-page-cv
 
 <h2>🚀 Tecnologías utilizadas</h2>
 <p>- **HTML5** → Para la estructura del CV.</p>
